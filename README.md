@@ -1,1 +1,1 @@
-> Neural Network Hyper-parameters Optimizing
+> Neural Network Hyper-parameters Optimization
